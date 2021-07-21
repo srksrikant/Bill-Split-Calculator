@@ -2,10 +2,9 @@ import React, { useState, useEffect } from "react";
 import Tips from "./Tips";
 import { ReactComponent as SVGpp } from "../images/icon-person.svg";
 
-
 const initialData = {
   bill: "",
-  tipP:5,
+  tipP: 5,
   people: 1,
 };
 
